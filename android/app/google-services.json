@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112284466516",
+    "project_id": "knowledge-efacb",
+    "storage_bucket": "knowledge-efacb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112284466516:android:650a5f8950f6770bd3dcc1",
+        "android_client_info": {
+          "package_name": "com.example.assignmentcw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5xluxpkdEO5t9bGjNhDebbaknUKc9SQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
